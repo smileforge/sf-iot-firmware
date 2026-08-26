@@ -7,7 +7,8 @@ the domain in `CNAME`.
 never compiled in; each stick is provisioned at install via Improv. If a build
 ever does contain them, `publish.sh` in the source repo refuses to stage it.
 
-Source lives in a private repo. Nothing here is edited by hand: run
+Owned by the `smileforge` org so public DNS names the business rather than an
+individual. Source lives in a private repo. Nothing here is edited by hand: run
 `./publish.sh <version>` there, which stages `dist/` and copies it here.
 
 | File | |
