@@ -1,13 +1,13 @@
 {
   "name": "Mill Monitor",
-  "version": "1.22.1",
+  "version": "1.22.2",
   "builds": [
     {
       "chipFamily": "ESP32-S3",
       "ota": {
         "path": "https://fw.smileforge.co/firmware.ota.bin",
-        "md5": "4b1a9bd561c0f46a820828d76b003ed1",
-        "summary": "Mill monitor firmware v1.22.1",
+        "md5": "3e40a650298aa6e6505cddf3d2dfb953",
+        "summary": "Mill monitor firmware v1.22.2",
         "release_url": "https://fw.smileforge.co/manifest.json"
       }
     }
